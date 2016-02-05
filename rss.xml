@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brianna Nash]]></title>
+        <description><![CDATA[Brianna Nash]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Feb 2016 17:16:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to my site</p>]]></description>
+            <link>undefined29d04a7e-8a62-416f-b9cc-99eb46be3682/index.html</link>
+            <guid isPermaLink="false">29d04a7e-8a62-416f-b9cc-99eb46be3682</guid>
+            <pubDate>Fri, 05 Feb 2016 17:16:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
